@@ -1,0 +1,97 @@
+body {
+  padding:0;
+  margin:0;
+}
+
+h1 {
+  display: block;
+  margin-top: auto;
+  font-size: 48px;
+  margin: 0 0 0 10px;
+}
+
+header {
+	background: url("design1_image1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 280px;
+	border: 1px solid gray;
+  display: block;
+	width: 100%;
+  height: 280px;	
+}
+
+#logo {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  display: block;
+	padding: 0;
+  top: 37%;
+	left: 75%;
+}
+
+nav {
+	display: block;
+  float: left;
+  width: 18%;
+	margin-left: 1%;
+}
+
+.link {
+  display: block;
+  height: 75px;
+  width: 100%;
+}
+
+.linkactivo {
+  display: block;
+  height: 75px;
+  width: 100%;
+}
+
+h2 {
+  border: 1px solid gray;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  line-height: 80px;
+  display: block;
+  margin-top: auto;
+	margin-bottom: 2%;
+	padding: 0;
+}
+
+.contenidoindex {
+  display: block;
+  float:left;
+  width: 80%;
+}
+
+.contenidoindex p {
+  text-indent: 2%;
+}
+
+.contenidoabout h3 {
+	margin: 0;
+	padding: 0;
+	font-family: cursive;
+}
+
+.contenidoabout p {
+	margin: 0;
+	padding: 0;
+	margin-left: 1%;
+	
+}
+
+.contenidocontact {
+  display: block;
+  width: 100%;
+}
+
+
+
+
